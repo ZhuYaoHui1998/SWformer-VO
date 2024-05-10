@@ -1,4 +1,5 @@
-# SWformer-VO: A Monocular Visual Odometry Model Based on Swin Transformer （https://ieeexplore.ieee.org/document/10490096）
+# SWformer-VO: A Monocular Visual Odometry Model Based on Swin Transformer 
+（https://ieeexplore.ieee.org/document/10490096）
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
